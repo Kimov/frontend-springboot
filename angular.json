@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontend-springboot"
+    }
+  },
+  "defaultProject": "frontend-springboot",
+  "cli": {
+    "analytics": false
+  }
 }
